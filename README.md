@@ -13,7 +13,7 @@ This project demonstrates real-time embedded control, wireless communication, an
 - ⚙️ Bidirectional motor control using L298N H-Bridge
 - 🔄 Dual-mode switching (Gesture / WiFi)
 
----
+--- 
 
 ## 🧠 System Overview
 
